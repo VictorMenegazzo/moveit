@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="public/logo-full.svg" />    
+</div>
 <h1 align="center">Move.it</h1>
 <h3 align="center">NLW#04 React - An application to exercise and stretch the body 💪</h3>
 
