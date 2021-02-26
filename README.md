@@ -4,10 +4,6 @@
 <h1 align="center">Move.it</h1>
 <h3 align="center">NLW#04 React - An application to exercise and stretch the body 💪</h3>
 
-<h4 align="center"> 
-	🚧  Under development  🚧
-</h4>
-
 # How to use
 
 To start your Next.js website:
